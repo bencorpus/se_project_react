@@ -1,0 +1,25 @@
+.modal__image {
+    max-width: 498px;
+}
+
+.modal__content_type_image {
+    padding: 0;
+    border-radius: 16px;
+}
+
+.modal__caption {
+    margin-left: 32px;
+}
+
+.modal__weather {
+    margin-left: 32px;
+}
+
+.modal__close {
+    background-image: url(../assets/close.png);
+    background-color: transparent;
+    border: none;
+    outline: none;
+    width: 20px;
+    height: 20px;
+}

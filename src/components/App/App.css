@@ -1,0 +1,46 @@
+.page {
+  background-color: #F3F3F3;
+  font-family: "Cabinet Grotesk", Arial, sans-serif;
+}
+
+.page__content {
+  max-width: 1360px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.modal__label {
+  margin-bottom: 8px;
+}
+
+.modal__input {
+  display: block;
+  border: none;
+  border-bottom: solid 1px #000;
+  width: 100%;
+  padding-top: 8px;
+}
+
+.modal__error {
+  color: #ff4d00;
+  font-size: 16px;
+  line-height: 20px;
+  margin-top: -10px;
+  margin-bottom: 10px;
+}
+
+.modal__legend {
+  padding-bottom: 12px;
+}
+
+.modal__radio-button {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  border: none;
+}
+
+.modal__radio-input{
+  accent-color: #000;
+  margin-right: 11px;
+}
